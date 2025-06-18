@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_insight">Insight</string>
+    <string name="title_activity_clinician">Clinician</string>
+</resources>
